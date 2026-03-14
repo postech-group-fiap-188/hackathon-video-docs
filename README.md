@@ -45,7 +45,7 @@ O projeto hackathon-video está organizado em múltiplos repositórios especiali
 - **Linguagem**: HCL (Terraform)
 - **Licença**: MIT
 - **Responsabilidade**: Repositório responsável pela definição e provisionamento da infraestrutura de banco de dados utilizada pelos serviços da aplicação, seguindo o padrão de Infraestrutura como Código (IaC).
-- **Repositório**: [postech-group-fiap-188/hackathon-video-infra-db](https://github.com/postech-group-fiap-188/hackathon-video-infra-db)
+- **Repositório**: [postech-group-fiap-188/hackathon-video-infra-db](https://github.com/postech-group-fiap-188/hackaton-infra-db)
 
 ---
 
